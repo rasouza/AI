@@ -1,0 +1,262 @@
+BL
+caminho:
+ABBBBAAA- | 0
+ABBBBAA-A | 1
+ABBB-AABA | 4
+-BBBAAABA | 8
+BBB-AAABA | 11
+BBBBAAA-A | 15
+Nós explorados: 434
+Nós gerados: 1202
+Profundidade: 5
+Custo: 15
+Fator de ramificação médio: 2
+
+
+
+BP
+caminho:
+ABBBBAAA- | 0
+ABBB-AAAB | 4
+ABBBAAA-B | 7
+ABBBAAAB- | 8
+ABBB-AABA | 12
+ABBBBAA-A | 15
+ABB-BAABA | 19
+ABBABA-BA | 22
+ABBABAAB- | 24
+ABBA-AABB | 28
+ABBABAA-B | 31
+ABB-BAAAB | 35
+ABBABA-AB | 38
+ABBABABA- | 40
+ABBA-ABAB | 44
+ABBAAAB-B | 47
+ABBAAABB- | 48
+ABBA-ABBA | 52
+ABBABAB-A | 55
+ABB-BABAA | 59
+ABBBBA-AA | 62
+AB-BBABAA | 66
+ABABB-BAA | 69
+ABABBABA- | 72
+ABAB-ABAB | 76
+ABABAAB-B | 79
+ABABAABB- | 80
+ABAB-ABBA | 84
+ABABBAB-A | 87
+ABA-BABBA | 91
+ABABBA-BA | 94
+ABABBAAB- | 96
+ABAB-AABB | 100
+ABABBAA-B | 103
+ABA-BAABB | 107
+ABAABA-BB | 110
+ABAABABB- | 112
+ABAA-ABBB | 116
+ABAABAB-B | 119
+ABA-BABAB | 123
+ABABBA-AB | 126
+AB-BBAAAB | 130
+ABABB-AAB | 133
+ABABBBAA- | 136
+ABAB-BAAB | 140
+ABABABA-B | 143
+ABABABAB- | 144
+ABAB-BABA | 148
+ABABBBA-A | 151
+ABA-BBABA | 155
+ABAABB-BA | 158
+ABAABBAB- | 160
+ABAA-BABB | 164
+ABAABBA-B | 167
+ABA-BBAAB | 171
+ABAABB-AB | 174
+ABAABBBA- | 176
+ABAA-BBAB | 180
+ABAAABB-B | 183
+ABAAABBB- | 184
+ABAA-BBBA | 188
+ABAABBB-A | 191
+ABA-BBBAA | 195
+ABABBB-AA | 198
+AB-BBBAAA | 202
+ABBBB-AAA | 205
+A-BBBBAAA | 209
+ABBB-BAAA | 212
+ABBBABAA- | 216
+ABBBA-AAB | 219
+ABBBAA-AB | 220
+ABBBAABA- | 222
+ABBB-ABAA | 226
+ABBBAAB-A | 229
+ABB-AABBA | 233
+ABBBAA-BA | 236
+AB-BAABBA | 240
+ABABA-BBA | 243
+ABABABB-A | 245
+ABABABBA- | 246
+ABAB-BBAA | 250
+-BABABBAA | 254
+BBA-ABBAA | 257
+BBAAABB-A | 261
+BBAAABBA- | 262
+BBAA-BBAA | 266
+BBAABB-AA | 268
+BBAABBAA- | 270
+BBAA-BAAB | 274
+BBAAABA-B | 277
+BBAAABAB- | 278
+BBAA-BABA | 282
+BBAABBA-A | 285
+BBA-BBAAA | 289
+BBABB-AAA | 291
+BBABBAAA- | 294
+BBAB-AAAB | 298
+BBABAAA-B | 301
+BBABAAAB- | 302
+BBAB-AABA | 306
+BBABBAA-A | 309
+BBA-BAABA | 313
+BBAABA-BA | 316
+BBAABAAB- | 318
+BBAA-AABB | 322
+BBAABAA-B | 325
+BBA-BAAAB | 329
+BBAABA-AB | 332
+BBAABABA- | 334
+BBAA-ABAB | 338
+BBAAAAB-B | 341
+BBAAAABB- | 342
+BBAA-ABBA | 346
+BBAABAB-A | 349
+BBA-BABAA | 353
+BBABBA-AA | 356
+BB-BBAAAA | 360
+Nós explorados: 197
+Nós gerados: 690
+Profundidade: 116
+Custo: 360
+Fator de ramificação médio: 3
+
+
+
+
+===== LIMITE: 5 =====
+caminho:
+ABBBBAAA- | 0
+ABBBBAA-A | 1
+ABBB-AABA | 4
+-BBBAAABA | 8
+BBB-AAABA | 11
+BBBBAAA-A | 15
+Nós explorados: 718
+Nós gerados: 728
+Profundidade: 5
+Custo: 15
+Fator de ramificação médio: 1
+
+===== LIMITE: 6 =====
+caminho:
+ABBBBAAA- | 0
+ABBBBAA-A | 1
+ABBBBA-AA | 2
+ABBB-ABAA | 4
+-BBBAABAA | 8
+BB-BAABAA | 10
+BBBBAA-AA | 14
+Nós explorados: 446
+Nós gerados: 463
+Profundidade: 6
+Custo: 14
+Fator de ramificação médio: 1
+
+===== LIMITE: 6 =====
+caminho:
+ABBBBAAA- | 0
+ABBBBAA-A | 1
+ABBBBA-AA | 2
+ABBB-ABAA | 4
+-BBBAABAA | 8
+BB-BAABAA | 10
+BBBBAA-AA | 14
+Nós explorados: 446
+Nós gerados: 463
+Profundidade: 6
+Custo: 14
+Fator de ramificação médio: 1
+
+
+
+BPI
+caminho:
+ABBBBAAA- | 0
+ABBBBAA-A | 1
+ABBB-AABA | 4
+-BBBAAABA | 8
+BBB-AAABA | 11
+BBBBAAA-A | 15
+Nós explorados: 2051
+Nós gerados: 2061
+Profundidade: 5
+Custo: 15
+Fator de ramificação médio: 1
+
+
+
+BCU
+caminho:
+ABBBBAAA- | 0
+ABBBB-AAA | 3
+ABBB-BAAA | 4
+-BBBABAAA | 8
+B-BBABAAA | 9
+BBBBA-AAA | 13
+Nós explorados: 586
+Nós gerados: 1343
+Profundidade: 5
+Custo: 13
+Fator de ramificação médio: 2
+
+
+
+A*
+caminho:
+ABBBBAAA- | 0
+ABBB-AAAB | 4
+AB-BBAAAB | 6
+ABABB-AAB | 9
+ABABBBAA- | 12
+ABABBB-AA | 14
+AB-BBBAAA | 18
+ABB-BBAAA | 19
+-BBABBAAA | 22
+BB-ABBAAA | 24
+BBBAB-AAA | 27
+BBB-BAAAA | 29
+Nós explorados: 242
+Nós gerados: 789
+Profundidade: 11
+Custo: 29
+Fator de ramificação médio: 3
+
+
+
+IDA*
+caminho:
+ABBBBAAA- | 0
+ABBBBAA-A | 1
+ABBBBA-AA | 2
+ABBBB-AAA | 3
+ABBB-BAAA | 4
+-BBBABAAA | 8
+B-BBABAAA | 9
+BBBBA-AAA | 13
+Nós explorados: 772
+Nós gerados: 797
+Profundidade: 7
+Custo: 13
+Fator de ramificação médio: 1
+
+
+
